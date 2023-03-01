@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1667339392 source:c:\users\polon\desktop\lucas\cursos\superior\disciplinas\algoritmos_e_estrutura_de_dados\tarefas\lista05\projectp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1667531690 source:c:\users\admin\desktop\projectp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1667531895 source:c:\users\admin\desktop\projectp\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1667531895 source:c:\users\polon\desktop\projectp\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1667531690 source:c:\users\polon\desktop\projectp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
